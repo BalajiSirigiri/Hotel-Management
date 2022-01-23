@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": null,
+      "email": null,
+      "age": null,
+      "address": null,
+      "nic": null,
+      "salary": null,
+      "occupation": "manager"
+    },
+    {
+      "id": 6,
+      "roomno": null,
+      "type": null,
+      "status": null,
+      "roomimage": null
+    }
+  ],
+  "signup": [
+    {
+      "name": "Avanish",
+      "email": "av@gmail.com",
+      "mobile": "7984563210",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Dhanushree",
+      "email": "hs@gmail.com",
+      "mobile": "98431753088",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "shiva",
+      "email": "d@g.com",
+      "mobile": "1234567890",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
